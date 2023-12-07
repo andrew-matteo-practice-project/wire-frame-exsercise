@@ -41,6 +41,9 @@ footer {
         justify-content: center;
         background-color: #CCFFFF;
         padding: 10px;
+        border-color: lightgray;
+        border-width: thin;
+        border-style: solid;
     }
     .alert-info a {
         text-decoration: none;
