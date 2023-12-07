@@ -66,7 +66,7 @@ footer {
     }
     li {
         background-color: lightgray;
-        padding: 10px 125px;
+        padding: 10px 132px;
     }
     .header-img img {
         display: flex;
@@ -86,11 +86,11 @@ footer {
         width: 100%;
     }
     footer {
-        bottom: -6px;
+        bottom: -30px;
         left: 8px;
     }
 }
-@media screen and (min-width: 960px) and (max-width: 1600px){
+@media screen and (min-width: 960px) and (max-width: 1800px){
     .wrapper {
         display: flex;
         flex-direction: column;
