@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+body {
+    padding: 10px;
+}
 .header {
     display: flex;
     justify-content: space-between;
@@ -62,7 +65,7 @@ footer {
     }
     li {
         background-color: lightgray;
-        padding: 10px 135px;
+        padding: 10px 125px;
         margin: 0 auto;
     }
     .header-img img {
